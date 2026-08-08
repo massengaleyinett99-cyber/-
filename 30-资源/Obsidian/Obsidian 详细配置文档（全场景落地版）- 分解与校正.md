@@ -2,7 +2,7 @@
 type: document-review
 status: reviewed
 created: 2026-08-08
-source: "D:\\新建文件夹\\Obsidian 详细配置文档（全场景落地版）.pdf"
+source: "本地原始 PDF（未上传 GitHub）"
 tags:
   - Obsidian
   - 文档拆解
@@ -14,7 +14,7 @@ tags:
 > [!summary] 总结
 > 这份 PDF **适合作为配置项目的素材清单，但不适合逐项照抄执行**。它的结构完整、原则合理，却混入了不存在的设置、错误的插件名称、过度绝对的路径规则和脆弱的 CSS；第七章备份方案还在标题处中断。建议保留其“轻量、本地优先、模板化、少插件”的思路，用 Obsidian 当前实际功能重新落地。
 
-- [打开原始 PDF](file:///D:/新建文件夹/Obsidian%20详细配置文档（全场景落地版）.pdf)
+- 原始 PDF：本地文件，未上传 GitHub
 - 评估日期：2026-08-08
 - PDF：16 页；正文在“7.1 本地备份”标题处结束，内容不完整
 

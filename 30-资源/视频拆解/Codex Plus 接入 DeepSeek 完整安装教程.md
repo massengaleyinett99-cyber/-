@@ -1,7 +1,7 @@
 ---
 type: video-breakdown
 created: 2026-08-08
-source: "D:\\新建文件夹\\9973385ab9180afe7ba69779ac71a3bd.mp4"
+source: "本地原始视频（未上传 GitHub）"
 tags:
   - 视频拆解
   - Codex
