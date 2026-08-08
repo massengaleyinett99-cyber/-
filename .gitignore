@@ -1,0 +1,23 @@
+# Claudian 会话与本地配置
+.claudian/
+.migration-backup/
+
+# Obsidian 临时工作区和本地插件程序
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/realclaudian/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+.trash/
+
+# Git 临时文件
+*.tmp
+*.bak
+
+# 大型视频素材（建议使用 Git LFS 或独立网盘）
+*.mp4
+*.mov
+*.webm
+*.mkv
